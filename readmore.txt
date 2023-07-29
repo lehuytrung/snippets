@@ -2,3 +2,5 @@ PLUGINS
 ================================================
 Regenerate Thumbnails
 https://wordpress.org/plugins/regenerate-thumbnails/
+Code Snippets
+https://wordpress.org/plugins/code-snippets/
