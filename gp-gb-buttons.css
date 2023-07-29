@@ -1,0 +1,55 @@
+/*
+ * Styling the GP & GB Buttons with CSS
+ */
+
+/* main generatepress button */
+.button,
+.button:visited,
+.button:focus {
+	/* add styles here */
+}
+
+/* main generatepress button hover */
+.button:hover,
+.button:active {
+	/* add styles here */
+}
+
+/* generateblocks button */
+.gb-button-wrapper .gb-button,
+.gb-button-wrapper .gb-button:visited,
+.gb-button-wrapper .gb-button:focus {
+	/* add styles here */
+}
+
+/* generateblocks button hover */
+.gb-button-wrapper .gb-button:hover,
+.gb-button-wrapper .gb-button:active {
+	/* add styles here */
+}
+
+/* generatepress read more button  */
+.read-more.button,
+.read-more.button:visited,
+.read-more.button:focus {
+	/* add styles here */
+}
+
+/* generatepress read more button hover */
+.read-more.button:hover,
+.read-more.button:active {
+	/* add styles here */
+}
+
+/* generatepress post comment button */
+form#commentform p.form-submit input#submit,
+form#commentform p.form-submit input#submit:visited,
+form#commentform p.form-submit input#submit:focus {
+	/* add styles here */
+}
+
+/* generatepress post comment button hover */
+form#commentform p.form-submit input#submit:hover,
+form#commentform p.form-submit input#submit:active {
+	/* add styles here */
+}
