@@ -1,0 +1,173 @@
+<!-- wp:generateblocks/container {"uniqueId":"fa740308","containerWidth":760,"paddingTop":"60","paddingRight":"30","paddingBottom":"180","paddingLeft":"30","isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/headline {"uniqueId":"bcf58fcd","element":"div","textColor":"var(\u002d\u002dprimary-accent)","fontWeight":"bold","fontSize":15,"textTransform":"uppercase","letterSpacing":0.2,"marginBottom":"20","iconColor":""} -->
+<div class="gb-headline gb-headline-bcf58fcd gb-headline-text">Titles</div>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"35ff0f8c","element":"h1","textColor":""} -->
+<h1 class="gb-headline gb-headline-35ff0f8c gb-headline-text">H1 – Vivamus integer non suscipit taciti mus etiam at primis tempor sagittis sit euismod libero facilisi aptent</h1>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"317892df"} -->
+<h2 class="gb-headline gb-headline-317892df gb-headline-text">H2 – Vivamus integer non suscipit taciti mus etiam at primis tempor sagittis sit euismod libero facilisi aptent</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"f90eb8a2","element":"h3"} -->
+<h3 class="gb-headline gb-headline-f90eb8a2 gb-headline-text">H3 – Vivamus integer non suscipit taciti mus etiam at primis tempor sagittis sit euismod libero facilisi aptent</h3>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"6f01cec1","element":"h4"} -->
+<h4 class="gb-headline gb-headline-6f01cec1 gb-headline-text">H4 – Vivamus integer non suscipit taciti mus etiam at primis tempor sagittis sit euismod libero facilisi aptent</h4>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"e3916f49","element":"div","textColor":"var(\u002d\u002dprimary-accent)","fontWeight":"bold","fontSize":15,"textTransform":"uppercase","letterSpacing":0.2,"marginTop":"60","marginBottom":"20","iconColor":""} -->
+<div class="gb-headline gb-headline-e3916f49 gb-headline-text">Body Text</div>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:paragraph -->
+<p>Mollis pretium lorem primis senectus habitasse lectus <a href="#">scelerisque</a> donec ultricies tortor suspendisse adipiscing fusce morbi volutpat pellentesque consectetur mi risus molestie curae malesuada. Dignissim lacus convallis massa mauris enim ad mattis magnis senectus montes mollis taciti phasellus accumsan bibendum semper blandit faucibus. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vivamus integer non suscipit taciti mus etiam at primis tempor sagittis sit euismod libero facilisi aptent elementum felis blandit cursus gravida sociis erat ante eleifend lectus nullam dapibus netus feugiat curae curabitur est ad. Massa curae fringilla consectetur porttitor quam sollicitudin iaculis aptent ligula euismod penatibus mauris eros praesent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"2e1e2e06","element":"div","textColor":"var(\u002d\u002dprimary-accent)","fontWeight":"bold","fontSize":15,"textTransform":"uppercase","letterSpacing":0.2,"marginTop":"60","marginBottom":"30","iconColor":""} -->
+<div class="gb-headline gb-headline-2e1e2e06 gb-headline-text">Color Palette</div>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/grid {"uniqueId":"5c769ef8","columns":15,"horizontalGap":30,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"a5f4c948","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"c76abe04","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dtext)","isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"50146d1a","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-50146d1a gb-headline-text">Text</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"4be56f32","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"56313d8e","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dtext-link)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"9535077f","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-9535077f gb-headline-text">Text Link</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"a9b1d71d","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"05ff31c1","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dlink-hover)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"69931bab","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-69931bab gb-headline-text">Link Hover</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"f75aa805","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"03dab4e6","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dtext-lite)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"ab7083e9","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-ab7083e9 gb-headline-text">Text Lite</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"bf8040f5","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"c062fa4c","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dtext-lite-hover)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"16913830","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-16913830 gb-headline-text">Text Lite Hover</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"978081aa","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"9f3795a3","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dheadline)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"73240e08","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-73240e08 gb-headline-text">Headline</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"03707be5","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"a2456975","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dheadline-hover)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"22c77063","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-22c77063 gb-headline-text">Headline Hover</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"99b20143","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"bbff310e","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dbutton)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"43f6f1a0","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-43f6f1a0 gb-headline-text">Button</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"58af3e69","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"83f0b4d5","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dbutton-hover)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"a913c7ed","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-a913c7ed gb-headline-text">Button Hover</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"cb3385f5","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"2f2845a2","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dbackground-body)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"5b70d1cc","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-5b70d1cc gb-headline-text">Background Body</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"46d8100c","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"ed258aba","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dbackground-dark)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"48d2f3c4","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-48d2f3c4 gb-headline-text">Background Dark</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"0f4fdf4f","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"8d9fbd55","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dbackground-lite)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"8e0716d2","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-8e0716d2 gb-headline-text">Background Lite</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"62d720dd","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"7548cb95","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dprimary-accent)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"fe674be6","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-fe674be6 gb-headline-text">Primary Accent</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"8a9cd439","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"9869d6cc","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dsecondary-accent)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"a62d9dc2","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-a62d9dc2 gb-headline-text">Secondary Accent</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"670874f8","isGrid":true,"gridId":"5c769ef8","width":20,"widthTablet":20,"widthMobile":33.33,"isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/container {"uniqueId":"42d350cf","minHeight":110,"marginBottom":"8","borderSizeTop":"1","borderSizeRight":"1","borderSizeBottom":"1","borderSizeLeft":"1","borderColor":"var(\u002d\u002dbackground-lite)","backgroundColor":"var(\u002d\u002dwhite)","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"blockVersion":2} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"e8f576d4","element":"p","alignment":"center","fontSize":13} -->
+<p class="gb-headline gb-headline-e8f576d4 gb-headline-text">White</p>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+<!-- /wp:generateblocks/grid -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"ce9218de","element":"div","textColor":"var(\u002d\u002dprimary-accent)","fontWeight":"bold","fontSize":15,"textTransform":"uppercase","letterSpacing":0.2,"marginTop":"40","marginBottom":"30","iconColor":""} -->
+<div class="gb-headline gb-headline-ce9218de gb-headline-text">Buttons</div>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/button-container {"uniqueId":"993c67a4","isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/button {"uniqueId":"f74bcae0","hasUrl":false,"backgroundColor":"var(\u002d\u002dbutton)","backgroundColorHover":"var(\u002d\u002dwhite)","textColor":"var(\u002d\u002dwhite)","textColorHover":"var(\u002d\u002dbutton)","borderColor":"var(\u002d\u002dbutton)","borderColorHover":"var(\u002d\u002dbutton)","marginRight":"20","paddingTop":"14","paddingRight":"24","paddingBottom":"14","paddingLeft":"24","borderSizeTop":"4","borderSizeRight":"4","borderSizeBottom":"4","borderSizeLeft":"4","blockVersion":2} -->
+<span class="gb-button gb-button-f74bcae0 gb-button-text">Primary</span>
+<!-- /wp:generateblocks/button -->
+
+<!-- wp:generateblocks/button {"uniqueId":"ea388efb","hasUrl":false,"backgroundColor":"var(\u002d\u002dwhite)","backgroundColorHover":"var(\u002d\u002dbutton)","textColor":"var(\u002d\u002dbutton)","textColorHover":"var(\u002d\u002dwhite)","borderColor":"var(\u002d\u002dbutton)","borderColorHover":"var(\u002d\u002dbutton)","paddingTop":"14","paddingRight":"24","paddingBottom":"14","paddingLeft":"24","borderSizeTop":"4","borderSizeRight":"4","borderSizeBottom":"4","borderSizeLeft":"4","blockVersion":2} -->
+<span class="gb-button gb-button-ea388efb gb-button-text">Secondary</span>
+<!-- /wp:generateblocks/button -->
+<!-- /wp:generateblocks/button-container -->
+<!-- /wp:generateblocks/container -->

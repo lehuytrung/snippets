@@ -1,0 +1,25 @@
+<!-- wp:generateblocks/container {"uniqueId":"7adee459","paddingTop":"0","paddingRight":"30","paddingBottom":"30","paddingLeft":"30","backgroundColor":"var(\u002d\u002daccent)","isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/image {"uniqueId":"359c194e","mediaId":4185,"sizeSlug":"full","useDynamicData":true,"dynamicContentType":"featured-image","dynamicLinkType":"single-post","marginRight":"-30","marginLeft":"-30"} /-->
+
+<!-- wp:generateblocks/headline {"uniqueId":"689643d4","marginTop":"30","marginBottom":"5","useDynamicData":true,"dynamicContentType":"post-title","dynamicLinkType":"single-post"} -->
+<h2 class="gb-headline gb-headline-689643d4 gb-headline-text"></h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"c6b567c3","element":"div","textColor":"var(\u002d\u002dcontrast)","lineHeight":1,"marginRight":"6","marginBottom":"20","paddingRight":"14","borderSizeRight":"1","iconColor":"var(\u002d\u002dcontrast-3)","iconSize":0.9,"inlineWidth":true,"useDynamicData":true,"dynamicContentType":"post-date"} -->
+<div class="gb-headline gb-headline-c6b567c3 gb-headline-text"></div>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"2a43f338","element":"div","linkColor":"var(\u002d\u002dcontrast-3)","linkColorHover":"var(\u002d\u002dbase)","fontSize":15,"lineHeight":1,"marginLeft":"5","iconColor":"var(\u002d\u002dcontrast-3)","iconPaddingRight":"0.4","inlineWidth":true,"useDynamicData":true,"dynamicContentType":"terms","dynamicLinkType":"term-archives"} -->
+<div class="gb-headline gb-headline-2a43f338 gb-headline-text"></div>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"ab419427","element":"p","useDynamicData":true,"dynamicContentType":"post-excerpt","useDefaultMoreLink":false,"excerptLength":16} -->
+<p class="gb-headline gb-headline-ab419427 gb-headline-text">test</p>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:generateblocks/button-container {"uniqueId":"31f7cd1e","isDynamic":true,"blockVersion":2} -->
+<!-- wp:generateblocks/button {"uniqueId":"f97178f1","hasUrl":false,"backgroundColor":"var(\u002d\u002dcontrast-3)","backgroundColorHover":"var(\u002d\u002dbase)","textColor":"#ffffff","textColorHover":"#ffffff","fontSize":15,"paddingTop":"6","paddingRight":"16","paddingBottom":"6","paddingLeft":"16","blockVersion":2,"useDynamicData":true,"dynamicLinkType":"single-post"} -->
+<span class="gb-button gb-button-f97178f1 gb-button-text">Read More</span>
+<!-- /wp:generateblocks/button -->
+<!-- /wp:generateblocks/button-container -->
+<!-- /wp:generateblocks/container -->
