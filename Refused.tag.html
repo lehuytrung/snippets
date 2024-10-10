@@ -1,0 +1,65 @@
+<script>
+	function removeQueryParams(url, keepParams) {
+		console.log("remove query params");
+		var parsedUrl = new URL(url);
+		var queryParams = parsedUrl.searchParams;
+
+		// Удаляем все параметры
+		var delete_params = [];
+		queryParams.forEach(function (_, param) {
+			if (!keepParams.includes(param)) {
+				delete_params.push(param);
+			}
+		});
+		delete_params.forEach(function (p, param) {
+			queryParams.delete(p);
+		});
+		// Обновляем URL без параметров или только с нужными параметрами
+		parsedUrl.search = queryParams.toString();
+		return parsedUrl.href;
+	}
+
+	// Пример использования
+	var keepParams = [
+		"utm_source",
+		"utm_medium",
+		"utm_campaign",
+		"utm_content",
+		"utm_term",
+	];
+
+	var link = window.location;
+	var new_link = removeQueryParams(link, keepParams);
+	window.history.replaceState({}, "", new_link);
+	var _0xe301 = [
+		"href",
+		"location",
+		"/refused",
+		"/refused",
+		"search",
+		"pushState",
+		"history",
+		"popstate",
+		"move",
+		"state",
+		"searchUrl",
+		"addEventListener",
+	];
+	(function (_0x6533x1) {
+		var _0x6533x2 = _0x6533x1[_0xe301[1]][_0xe301[0]];
+		_0x6533x1[_0xe301[6]][_0xe301[5]](
+			{
+				move: true,
+			},
+			_0xe301[2],
+			_0xe301[3] + _0x6533x1[_0xe301[1]][_0xe301[4]]
+		);
+		_0x6533x1[_0xe301[6]][_0xe301[5]]({}, _0xe301[2], _0x6533x2);
+		_0x6533x1[_0xe301[11]](_0xe301[7], function (_0x6533x3) {
+			if (_0x6533x3[_0xe301[9]][_0xe301[8]]) {
+				_0x6533x1[_0xe301[1]][_0xe301[0]] =
+					_0x6533x1[_0xe301[1]][_0xe301[4]];
+			}
+		});
+	})(window);
+</script>
